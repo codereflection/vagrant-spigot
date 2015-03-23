@@ -1,0 +1,8 @@
+# Vagrant data folder
+.vagrant
+
+# Spigot BuildTools
+BuildTools.jar
+
+spigot_data/*
+!/spigot_data/.gitignore
